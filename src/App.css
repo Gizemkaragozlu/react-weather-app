@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: palevioletred;
+
+}
+.city-temp{
+  font-size: 50px;
+}
+.city-name{
+  color: aliceblue;
+}
+.city-main{
+  font-size: large;
+  background-color: aliceblue;
+}
+input{
+  background-color: aliceblue;
+}
+
+
